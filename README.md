@@ -63,7 +63,7 @@ viewer.html文件中
 因为我实在页面加载完成后立即进行页面跳转。所以加了一个延时操作
 
 现在加载的是本地pdf，加载网络pdf还需要继续研究。
-[DEMO](https://github.com/guofeifeifei/pdfJs-iOS/tree/0232ea847193e135993c4bfed7de54f7e70b1f56)
+[DEMO](https://github.com/guofeifeifei/LoadPdfSignature/tree/master/LoadPdfSignature)
 [iOS展示pdf签名时遇到的问题及解决办法](https://link.jianshu.com/?t=https%3A%2F%2Fblog.csdn.net%2FlYcHeeMMM%2Farticle%2Fdetails%2F78783487)
 [iOS使用pdf.js打开PDF文件](https://www.jianshu.com/p/ded81b392d4d)
 [iOS 加载PDF问题无法显示电子章问题](https://www.jianshu.com/p/fd5f248a8158)
